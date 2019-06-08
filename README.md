@@ -43,11 +43,17 @@ then
 
 ## Setup!
 
-Install [Gnome-Tweaks]() theme with only few steps
+Install with only few steps
+
+Search and install those applications at ubuntu store:
+GNOME Tweaks
+Dash to Dock
+
+set the build file as executable file
 
 > chmod u+x build-me-ubuntu.sh 
 
-then
+then run the script
 
 >./build-me-ubuntu.sh
 
