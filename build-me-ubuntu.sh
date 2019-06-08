@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo bash -c 'echo "set completion-ignore-case On" >> /etc/inputrc'
+cp -pr ./my-shell-theme /home/`whoami`/.themes
 
 cd /home/`whoami`/
 mkdir .themes
@@ -25,5 +25,3 @@ git clone https://github.com/keeferrourke/capitaine-cursors.git
 cp -pr dist/ ~/.icons/capitaine-cursors
 cp -pr dist-white/ ~/.icons/capitaine-cursors-White
 cd
-
-cp -pr ./my-shell-theme /home/`whoami`/.themes
