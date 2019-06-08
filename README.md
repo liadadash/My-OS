@@ -13,6 +13,7 @@ My os is Ubuntu 19.04 (Disco Dingo)
 
 **Sound**: Default (Yaru)
 
+![Desktop](https://user-images.githubusercontent.com/43498633/59151388-dd79e400-8a3a-11e9-8c29-c8bc1c248c46.png)
 
 ## Pre-installation!
 
