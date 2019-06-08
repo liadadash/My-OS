@@ -48,6 +48,7 @@ Install with only few steps
 Search and install those applications at ubuntu store:
 GNOME Tweaks
 Dash to Dock
+Blyr
 
 set the build file as executable file
 
