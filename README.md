@@ -1,7 +1,7 @@
 # My-OS
 In this repo you can see how to set my OS in your PC
 
-My os is Ubuntu 19.04 (Disco Dingo)
+My os is [Ubuntu 19.04 (Disco Dingo)](https://www.ubuntu.com/download/desktop/thank-you?country=IL&version=19.04&architecture=amd64)
 
 **Theme**: [Mojave-light-solid](https://github.com/vinceliuice/Mojave-gtk-theme)
 
